@@ -80,8 +80,8 @@ These KPIs are presented in **card format** with large, bold text for quick read
 ---
 
 
-<img width="1044" alt="Screenshot 2025-05-10 at 3 49 20 pm" src="https://github.com/user-attachments/assets/c29ca2d5-cc62-477c-9a10-8e620da42c03" />
 
+<img width="1046" alt="Screenshot 2025-05-11 at 12 24 59 am" src="https://github.com/user-attachments/assets/29c0f9d3-b380-4c26-9a90-37232fe54ab6" />
 
 
 
