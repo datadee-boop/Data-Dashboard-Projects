@@ -21,6 +21,7 @@ Designed with a **modern pastel purple aesthetic**, the dashboard presents data 
 - Visual design techniques for clarity and storytelling
 - Handling aggregation (e.g., correcting count vs average display)
   
+<img width="940" alt="Screenshot 2025-05-11 at 9 03 25 am" src="https://github.com/user-attachments/assets/1d80d490-2e70-4670-a73d-83e3c12c3023" />
 
 
 
