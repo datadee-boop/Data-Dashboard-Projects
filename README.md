@@ -1,5 +1,5 @@
 # 📊 HR Analytics Dashboard - Tableau Visualisation
-![pastel-purple](https://img.shields.io/badge/Theme-Pastel%2 0Purple%20💜-purple)
+![pastel-purple](https://img.shields.io/badge/Theme-Pastel%20Purple%20💜-purple)
 
 
 This project presents a Tableau-based HR Analytics Dashboard aimed at providing key workforce insights across departments. The dashboard enables interactive exploration of performance, attrition, and job satisfaction metrics by gender, marital status, department, and education field.
