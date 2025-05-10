@@ -80,6 +80,7 @@ These KPIs are presented in **card format** with large, bold text for quick read
 - **🧮 CSV File** – Simulated healthcare dataset with realistic trends
 
 ---
+<img width="1046" alt="Screenshot 2025-05-11 at 9 00 30 am" src="https://github.com/user-attachments/assets/d1c192b4-2f39-4858-9324-45d9b83b2ad8" />
 
 
 
