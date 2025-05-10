@@ -22,9 +22,6 @@ Designed with a **modern pastel purple aesthetic**, the dashboard presents data 
 - Handling aggregation (e.g., correcting count vs average display)
   
 
-## 🌐 View Interactive Dashboard
-[🔗 Tableau Public Link](https://public.tableau.com/views/YourDashboardLinkHere)
-
 
 <img width="948" alt="Screenshot 2025-05-10 at 8 46 00 am" src="https://github.com/user-attachments/assets/16ade752-2dcc-42b2-93e3-2c423968c8c4" />
 
