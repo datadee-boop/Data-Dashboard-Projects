@@ -8,7 +8,7 @@ Designed with a **modern pastel purple aesthetic**, the dashboard presents data 
 
 
 ## 🔍 Key Insights
-- **Performance Ratings** segmented by gender, department, and marital status
+- **Performance Ratings** segmented by department, and marital status
 - **Attrition Analysis** highlighting employee turnover across departments
 - **Job Satisfaction** averages by education background
 
