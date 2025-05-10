@@ -83,10 +83,55 @@ These KPIs are presented in **card format** with large, bold text for quick read
 ---
 <img width="1046" alt="Screenshot 2025-05-11 at 9 00 30 am" src="https://github.com/user-attachments/assets/d1c192b4-2f39-4858-9324-45d9b83b2ad8" />
 
+# 🎓 Educational Dashboard – Tableau Project
+![theme-blue](https://img.shields.io/badge/Theme-Academic%20Blue%20📘-blue)
 
+This Tableau dashboard provides a comprehensive overview of key academic metrics, such as **average GPA**, **weekly study hours**, and **student satisfaction scores**, segmented by **year level**, **gender**, and other filters. It is designed to help educators, program administrators, and academic advisors derive actionable insights into student performance and well-being.
 
+## 📊 Dashboard Features
 
+- **Avg. Weekly Study Hours by Year**  
+  Visualized as a vertical bar chart, displaying how study hours vary across academic years (Freshman, Sophomore, Junior, Senior).
 
+- **Satisfaction Score by Gender & Year**  
+  A multi-panel scatter plot showing satisfaction levels split by gender and year level. The plot was **expanded to reduce clutter**, allowing better readability and comparison.
+
+- **Avg. GPA by Year**  
+  A horizontal bar chart depicting GPA distribution across different academic years.
+
+- **Interactive Filters**  
+  - Program  
+  - Gender  
+  - Internship Completion  
+
+- **KPI Card Panel (Bottom Right)**  
+  Summarized metrics for:
+  - Avg. GPA  
+  - Avg. Satisfaction Score  
+  - Weekly Study Hours
+
+## 🎨 Visual Theme & Design
+
+- **Color Palette**:  
+  - A **deep navy gradient background** establishes a professional and academic tone.  
+  - Year levels are distinctly color-coded (orange, teal, coral, etc.) for clarity.
+  
+- **Font Choices**:  
+  - Clean sans-serif fonts for maximum legibility (suggested: Segoe UI, Calibri, or Tahoma).
+  
+- **Layout**:  
+  - Symmetrical, modular structure  
+  - Adequate white space and spacing between charts  
+  - Enlarged scatter plot for better user experience
+
+- **Interactivity**:  
+  Hover effects and tooltips reveal more detailed data, allowing deeper exploration without overwhelming the visual space.
+
+## 🛠️ Tools Used
+
+- **Software**: Tableau Desktop  
+- **Data Source**: Simulated academic dataset (student GPA, satisfaction score, study habits, etc.)  
+- **Version**: Tableau 202x.x
 
 
 
