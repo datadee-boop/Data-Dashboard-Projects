@@ -26,8 +26,50 @@ This project presents a Tableau-based HR Analytics Dashboard aimed at providing 
 <img width="948" alt="Screenshot 2025-05-10 at 8 46 00 am" src="https://github.com/user-attachments/assets/16ade752-2dcc-42b2-93e3-2c423968c8c4" />
 
 
+# 🩺 Healthcare Dashboard — Tableau Visualization
 
+![health-red](https://img.shields.io/badge/Theme-Health%20Red%20🩸-red)
+> A data-driven exploration of patient trends, chronic conditions, and healthcare usage.
 
+## 📊 Overview
+
+This Tableau dashboard presents a visual analysis of healthcare data, focusing on relationships between patient attributes and their healthcare behaviors and costs. Designed with a **clean red aesthetic**, the dashboard enables quick insight into **chronic condition impacts**, **smoking habits**, and **key health metrics**.
+
+---
+
+## 🔍 Key Insights
+
+### ✅ Chronic Conditions vs. Medical Costs
+- Patients diagnosed with **Diabetes**, **Hypertension**, or **Both** have **significantly higher average annual medical costs** than those with no chronic condition.
+  
+### ✅ Smoker Status vs. Age & Checkups
+- **Non-smokers** tend to be **older** and have **more frequent annual checkups** on average than smokers.
+  
+---
+
+## 📈 Visualizations
+
+### 🥧 Pie Chart: Patients by Chronic Conditions
+- **Visualizes the percentage breakdown** of patients by condition:  
+  `None`, `Diabetes`, `Hypertension`, `Both`
+- Labels show **count and %** for each group.
+
+### 💡 KPI Cards
+- **Average BMI**: Displays the average Body Mass Index across patients.
+- **Average Annual Medical Cost**: Displays the average medical cost per patient.
+- **Average Annual Checkups**: Displays the average number of checkups per patient annually.
+
+These KPIs are presented in **card format** with large, bold text for quick readability.
+
+---
+
+## 🧰 Tools Used
+
+- **📘 Tableau Public/Desktop** – Data visualization
+- **🧼 Python/Pandas** (optional pre-cleaning)
+- **🧮 CSV File** – Simulated healthcare dataset with realistic trends
+
+---
 
 
 
