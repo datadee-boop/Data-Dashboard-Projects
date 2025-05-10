@@ -86,3 +86,6 @@ These KPIs are presented in **card format** with large, bold text for quick read
 
 <img width="1048" alt="image" src="https://github.com/user-attachments/assets/2e7360ff-b6a5-48da-9c90-bfa012188590" />
 
+<img width="1044" alt="Screenshot 2025-05-10 at 3 49 20 pm" src="https://github.com/user-attachments/assets/c29ca2d5-cc62-477c-9a10-8e620da42c03" />
+
+
