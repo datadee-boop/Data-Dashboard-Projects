@@ -24,3 +24,12 @@ This project presents a Tableau-based HR Analytics Dashboard aimed at providing 
 
 
 <img width="948" alt="Screenshot 2025-05-10 at 8 46 00 am" src="https://github.com/user-attachments/assets/16ade752-2dcc-42b2-93e3-2c423968c8c4" />
+
+
+
+
+
+
+
+<img width="1048" alt="image" src="https://github.com/user-attachments/assets/2e7360ff-b6a5-48da-9c90-bfa012188590" />
+
