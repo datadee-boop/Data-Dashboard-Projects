@@ -23,7 +23,9 @@ Designed with a **modern pastel purple aesthetic**, the dashboard presents data 
   
 
 
-<img width="948" alt="Screenshot 2025-05-10 at 8 46 00 am" src="https://github.com/user-attachments/assets/16ade752-2dcc-42b2-93e3-2c423968c8c4" />
+
+<img width="943" alt="image" src="https://github.com/user-attachments/assets/3f2eca93-b460-4d2e-bf7e-68b6d9a04b7c" />
+
 
 
 # 🩺 Healthcare Dashboard — Tableau Visualization
