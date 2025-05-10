@@ -25,10 +25,6 @@ Designed with a **modern pastel purple aesthetic**, the dashboard presents data 
 
 
 
-<img width="943" alt="image" src="https://github.com/user-attachments/assets/3f2eca93-b460-4d2e-bf7e-68b6d9a04b7c" />
-
-
-
 # 🩺 Healthcare Dashboard — Tableau Visualization
 
 ![health-red](https://img.shields.io/badge/Theme-Health%20Red%20🩸-red)
