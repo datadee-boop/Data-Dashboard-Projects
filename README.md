@@ -52,6 +52,14 @@ This Tableau dashboard presents a visual analysis of healthcare data, focusing o
 
 ## 📈 Visualizations
 
+### 📊 Side-by-Side Bar Charts:
+- **Annual Avg. Medical Cost by Chronic Conditions & Region**:  
+  This chart displays annual medical costs grouped by **chronic conditions** and **region**.
+  
+- **Annual Checkups by Age Group & Smoker Status**:  
+  A horizontal side-by-side bar chart comparing annual checkups by **age group** and **smoker status**.
+
+
 ### 🥧 Pie Chart: Patients by Chronic Conditions
 - **Visualizes the percentage breakdown** of patients by condition:  
   `None`, `Diabetes`, `Hypertension`, `Both`
