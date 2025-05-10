@@ -2,6 +2,9 @@
 
 This project presents a Tableau-based HR Analytics Dashboard aimed at providing key workforce insights across departments. The dashboard enables interactive exploration of performance, attrition, and job satisfaction metrics by gender, marital status, department, and education field.
 
+Designed with a **modern pastel purple aesthetic**, the dashboard presents data in a clean, visually appealing format to promote easy exploration and analysis.
+
+
 ## 🔍 Key Insights
 - **Performance Ratings** segmented by gender, department, and marital status
 - **Attrition Analysis** highlighting employee turnover across departments
