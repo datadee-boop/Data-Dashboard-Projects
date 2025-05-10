@@ -90,6 +90,7 @@ These KPIs are presented in **card format** with large, bold text for quick read
 <img width="1144" alt="Screenshot 2025-05-11 at 12 15 47 am" src="https://github.com/user-attachments/assets/cefb14c7-179b-4321-9508-7a44d1b98843" />
 
 
+<img width="1153" alt="Screenshot 2025-05-11 at 7 57 21 am" src="https://github.com/user-attachments/assets/e84adc4c-29ee-4563-88ee-53fa676830f6" />
 
 
 
