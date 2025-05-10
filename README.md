@@ -20,9 +20,7 @@ Designed with a **modern pastel purple aesthetic**, the dashboard presents data 
 - Filtering and segmentation using Tableau parameters
 - Visual design techniques for clarity and storytelling
 - Handling aggregation (e.g., correcting count vs average display)
-
-## 📎 Screenshot
-![Dashboard](images/dashboard.png)
+  
 
 ## 🌐 View Interactive Dashboard
 [🔗 Tableau Public Link](https://public.tableau.com/views/YourDashboardLinkHere)
