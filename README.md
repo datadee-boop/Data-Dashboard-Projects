@@ -145,7 +145,7 @@ This Tableau dashboard provides a comprehensive overview of key academic metrics
 
 
 
-<img width="1153" alt="Screenshot 2025-05-11 at 7 57 21 am" src="https://github.com/user-attachments/assets/e84adc4c-29ee-4563-88ee-53fa676830f6" />
+<img width="1150" alt="Screenshot 2025-05-11 at 11 41 23 am" src="https://github.com/user-attachments/assets/5206b7f6-ffca-451d-ba52-4407f2b69a14" />
 
 
 
